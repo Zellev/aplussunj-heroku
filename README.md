@@ -37,3 +37,5 @@ RESTFul API untuk Aplikasi Ujian Essay Daring menggunakan tools sebagai berikut:
 Jika ingin menambahkan data dummy ganti command pada langkah no 6 menjadi `npx sequelize-cli db:seed:all`.
 
 ## Dokumentasi Pengujian Endpoint:
+
+https://documenter.getpostman.com/view/15028732/UzQxMPLY
